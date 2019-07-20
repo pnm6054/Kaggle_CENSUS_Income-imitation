@@ -22,5 +22,5 @@ Methods used:
 - XGBoost
 - **LightGBM (Best)**
 ---------------------------------------
-- Stacking (Ensemble)
-with RandomForest, XGBoost, AdaBoost, ExtraTree, LogisticReggression
+- Stacking (Ensemble) with RandomForest, XGBoost, AdaBoost, ExtraTree, LogisticReggression
+https://github.com/vecxoz/vecstack
