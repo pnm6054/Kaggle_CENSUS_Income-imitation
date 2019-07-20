@@ -9,3 +9,18 @@ https://www.kaggle.com/uciml/adult-census-income
 
 using LightGBM to classificate 
 > Final Score(private) 0.87776
+
+Methods used:
+- RandomForest
+- ExtraTree
+- Deep Learning (Keras)
+- SVC
+- AdaBoost
+- GradientBoost
+- Bagging
+- LogisticRegression
+- XGBoost
+- **LightGBM (Best)**
+---------------------------------------
+- Stacking (Ensemble)
+with RandomForest, XGBoost, AdaBoost, ExtraTree, LogisticReggression
